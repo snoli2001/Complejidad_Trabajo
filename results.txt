@@ -1,0 +1,12 @@
+Algorithm: dijkstra
+Average time: 0.008356362581253052
+
+Algorithm: a_start
+Average time: 0.010727226734161377
+
+Algorithm: bellman_ford_path
+Average time: 0.028304725885391235
+
+Algorithm: shortest_path
+Average time: 0.0012158022986518012
+
